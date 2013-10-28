@@ -3,7 +3,7 @@ id: UnpublishedEntries
 author_link: http://www.google.com/profiles/beawrangler
 author_name: Christian Santiago & Ken Hansen
 description: A plugin that allows access to any entry, whether published  or merely saved, on any blog.
-version: 0.1
+version: 0.1.0
 
 tags:
     block:
